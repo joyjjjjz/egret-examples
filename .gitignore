@@ -3,3 +3,6 @@ bin-debug/
 temp/
 libs/
 egret.d.ts
+manifest.json
+CoreExample/manifest.json
+EUIExample/manifest.json
